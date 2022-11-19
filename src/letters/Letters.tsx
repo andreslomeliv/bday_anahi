@@ -18,9 +18,14 @@ const content = [
       "Anahí muchas felicidades!!!! Te deseo lo mejor en tu día que dios te bendiga y que cumplas muchísimos años más!!! Muchas gracias por todo, aunque no hablemos mucho ya sabes que aquí estoy siempre para lo que necesites. Te mando un abrazo!!! 😄",
   },
   {
-    author: "Gayby",
+    author: "Gayby (pt. 1)",
     content:
-      "Feliz cumpleaños puna!!! Jajaaj bien secundaria pero espero que este año te la pases increíble y que esté lleno de puro crecimiento, sabes que aunque estemos y seguiremos a la distancia nuestra amistad es incondicional y para toda la vida! Quiero que sepas que estoy muy orgullosa de ti y de todos tus logros!!  Sabes que cuentas conmigo para toda la vida!! Síguela rompiendo!! Felices 25 morrita!!!! Te amo siempre💓",
+      "Feliz cumpleaños puna!!! Jajaaj bien secundaria pero espero que este año te la pases increíble y que esté lleno de puro crecimiento, sabes que aunque estemos y seguiremos a la distancia nuestra amistad es incondicional y para toda la vida!",
+  },
+  {
+    author: "Gayby (pt. 2)",
+    content:
+      "Quiero que sepas que estoy muy orgullosa de ti y de todos tus logros!!  Sabes que cuentas conmigo para toda la vida!! Síguela rompiendo!! Felices 25 morrita!!!! Te amo siempre💓",
   },
   {
     author: "Benja",

@@ -1,0 +1,20 @@
+.animation-sequence-root {
+    text-align: center;
+    height: 100%;
+}
+
+.animation-sequence-text {
+    top: 40%;
+    position: relative;
+    letter-spacing: 1px;
+    line-height: 1;
+}
+
+.animation-sequence-letter {
+    display: inline-block;
+    opacity: 0;
+}
+
+.open-song {
+    font-size: 40px;
+}

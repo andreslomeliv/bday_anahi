@@ -1,0 +1,66 @@
+html, body {
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: 'Pacifico', monospace;
+  font-size: 24px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+  color: white;
+  overflow: hidden;
+}
+
+input {
+  padding: 5px;
+  background-color: black;
+  color: white;
+  border: none;
+  text-align: center;
+  font-size: 48px;
+  font-family: 'Pacifico', monospace;
+}
+ #loading-bar {
+  margin-top: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+  height: 20px;
+  width: 0px;
+  background-color: rgb(94, 231, 15);
+  border-radius: 2px;
+  align-self: start;
+ }
+
+.button {
+  padding: 5px;
+  min-height: 60px;
+  width: 180px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: white;
+  display: inline-block;
+  font-size: 32px;
+  font-family: 'Pacifico', monospace;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.final-text {
+  scale: 0.1
+}
+
+#letter-content p {
+  overflow-y: scroll;
+}

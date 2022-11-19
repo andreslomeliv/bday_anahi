@@ -1,5 +1,5 @@
 import { AnimationSequence } from "./animation/AnimationSequence";
-import { useState, useMemo, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { Letters } from "./letters/Letters";
 import famPhoto from "./fam_photo.png";
 import anime from "animejs";
